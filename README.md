@@ -34,4 +34,4 @@ This project follows the industry-standard framework:
 ---
 
 ## 🚀 Repository Contents
-* [`cyclistic-bike-share-data-analysis-case-study.ipynb`](./cyclistic-bike-share-data-analysis-case-study.ipynb): The complete, executable Jupyter Notebook containing all data wrangling, cleaning, and visualization code hosted directly from Kaggle.
+* [`cyclistic-bike-share-data-analysis-case-study.ipynb`](./case-study-cyclistic-bike-share.ipynb): The complete, executable Jupyter Notebook containing all data wrangling, cleaning, and visualization code hosted directly from Kaggle.
